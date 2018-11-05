@@ -1,8 +1,5 @@
-# test1
 
 from https://www.jianshu.com/p/191d1e21f7ed
-
-# haha
 
 from http://note.youdao.com/iyoudao/?p=2411
 
@@ -91,55 +88,9 @@ from http://note.youdao.com/iyoudao/?p=2411
     每行前边有个tab键
 
 
-(```)
-    function fun(){
-         echo "这是一句非常牛逼的代码";
-    }
-    fun();
-(```)
-
-
-
-    
-    package JavaThread.learnFromWeb;
-
-    public class InteruptTest  {
 
     public static void main(String [] args){
 
-        Thread sleepThread = new Thread(){
-
-            public void run(){
-                try {
-                    Thread.sleep(1000);
-                }catch (InterruptedException e){
-                    e.printStackTrace();
-                }
-
-                super.run();
-            }
-        };
-
-        Thread busyThread = new Thread(){
-            public void run(){
-                while (true);
-            }
-        };
-
-
-        sleepThread.start();
-        busyThread.start();
-
-        sleepThread.interrupt();
-        busyThread.interrupt();
-
-        while (sleepThread.isInterrupted()){
-            System.out.println("sleep  : " + sleepThread.isInterrupted());
-            System.out.println("busy  : " + busyThread.isInterrupted());
-        }
-
+        System.out.println("hi github");
 
     }
-
-    }
-
