@@ -35,6 +35,8 @@ from http://note.youdao.com/iyoudao/?p=2411
 
 ![image](C:/Users/YAO/Desktop/markdown5.jpg "注意这里是反斜杠")
 
+![Alt text](https://github.com/yaoxuhaha/yaolearn/C:/developer/gitIMG/markimgtest.png)
+
 
 ## 超链接
 [百度](www.baidu.com "百度")
