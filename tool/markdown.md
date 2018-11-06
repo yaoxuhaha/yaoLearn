@@ -87,9 +87,10 @@ from http://note.youdao.com/iyoudao/?p=2411
 每行前边有个tab键
 
 
-
+``` java
     public static void main(String [] args){
 
         System.out.println("hi github");
 
     }
+```
