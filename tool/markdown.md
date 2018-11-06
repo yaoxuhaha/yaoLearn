@@ -32,7 +32,7 @@ from http://note.youdao.com/iyoudao/?p=2411
 ----------
 ## 上传图片
 
-![image](https://github.com/yaoxuhaha/yaoLearn/blob/master/img/markdown5.jpg"提示")
+![image](https://github.com/yaoxuhaha/yaoLearn/blob/master/img/markdown5.jpg)
 
 
 ## 超链接
