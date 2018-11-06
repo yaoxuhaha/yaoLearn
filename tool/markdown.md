@@ -31,11 +31,8 @@ from http://note.youdao.com/iyoudao/?p=2411
 ********
 ----------
 ## 上传图片
-![image](https://note.youdao.com/favicon.ico)
 
-![image](C:/Users/YAO/Desktop/markdown5.jpg "注意这里是反斜杠")
-
-![Alt text](https://github.com/yaoxuhaha/yaolearn/C:/developer/gitIMG/markimgtest.png)
+![image](https://github.com/yaoxuhaha/yaoLearn/blob/master/img/markdown5.jpg"提示")
 
 
 ## 超链接
